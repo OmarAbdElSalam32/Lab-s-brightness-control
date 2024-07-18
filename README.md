@@ -1,2 +1,2 @@
-# Lab-s-brightness-control
-Lab's brightness control
+# Lap-s-brightness-control
+Lap's brightness control
